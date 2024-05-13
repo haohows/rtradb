@@ -41,6 +41,7 @@ const prayCard = {
     { file: "prayCard/image/taskimg/taoyuanshrine.webp", name: "taoyuanshrine" },
     { file: "prayCard/image/taskimg/toriiorig.webp", name: "toriiorig" },
     { file: "prayCard/image/taskimg/wish.webp", name: "wish" },
+    { file: "prayCard/image/taskimg/worshiphall.webp", name: "worshiphall" },
     { file: "prayCard/image/storyback/citynight.webp", name: "citynight" },
     { file: "prayCard/image/storyback/coverbackgrount.webp", name: "coverbackgrount" },
     { file: "prayCard/image/storyback/damagedtorii.webp", name: "damagedtorii" },
