@@ -13,7 +13,7 @@ const nhclac = {
     { file: "nhclac/image/map.webp", name: "map" },
   ],
   armark: [
-    { file: "nhclac/image/armark/map.mind", name: "map" },
+    { file: "nhclac/armark/map.mind", name: "map" },
   ],
   armodel: [],
   music: [],
