@@ -17,6 +17,7 @@ const nhclac = {
     { file: "nhclac/image/evtitem02.webp", name: "evtitem02" },
     { file: "nhclac/image/evtitem03.webp", name: "evtitem03" },
     { file: "nhclac/image/position.webp", name: "position" },
+    { file: "nhclac/image/taskimg.webp", name: "taskimg" },
   ],
   armark: [
     { file: "nhclac/armark/position.mind", name: "position" },
