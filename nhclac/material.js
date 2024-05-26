@@ -22,6 +22,7 @@ const nhclac = {
     { file: "nhclac/image/position.webp", name: "position" },
     { file: "nhclac/image/taskimg.webp", name: "taskimg" },
     { file: "nhclac/image/absdinosaur.webp", name: "absdinosaur" },
+    { file: "nhclac/image/resethint.webp", name: "resethint" },
     { file: "nhclac/image/aboriginal.png", name: "aboriginal" },
     { file: "nhclac/image/erythrina.png", name: "erythrina" },
   ],
