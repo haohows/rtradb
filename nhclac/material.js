@@ -10,6 +10,7 @@ const nhclac = {
     { file: "nhclac/image/map01.webp", name: "map01" },
     { file: "nhclac/image/map02.webp", name: "map02" },
     { file: "nhclac/image/map03.webp", name: "map03" },
+    { file: "nhclac/image/map360.webp", name: "map360" },
     { file: "nhclac/image/evtbg.webp", name: "evtbg" },
     { file: "nhclac/image/evtitem00.webp", name: "evtitem00" },
     { file: "nhclac/image/evtitem01.webp", name: "evtitem01" },
