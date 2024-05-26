@@ -10,11 +10,8 @@ const nhclac = {
     { file: "nhclac/image/evtitem01.webp", name: "evtitem01" },
     { file: "nhclac/image/evtitem02.webp", name: "evtitem02" },
     { file: "nhclac/image/evtitem03.webp", name: "evtitem03" },
-    { file: "nhclac/image/map.webp", name: "map" },
   ],
-  armark: [
-    { file: "nhclac/armark/map.mind", name: "map" },
-  ],
+  armark: [],
   armodel: [],
   music: [],
   video: [],
