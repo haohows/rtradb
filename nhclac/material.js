@@ -21,9 +21,11 @@ const nhclac = {
     { file: "nhclac/image/evt1684.webp", name: "evt1684" },
     { file: "nhclac/image/position.webp", name: "position" },
     { file: "nhclac/image/taskimg.webp", name: "taskimg" },
+    { file: "nhclac/image/absdinosaur.webp", name: "absdinosaur" },
   ],
   armark: [
     { file: "nhclac/armark/position.mind", name: "position" },
+    { file: "nhclac/armark/dinosaur.mind", name: "dinosaur" },
   ],
   armodel: [],
   music: [],
