@@ -5,6 +5,7 @@ const nhclac = {
     { file: "nhclac/image/cat1.webp", name: "cat1" },
     { file: "nhclac/image/cat2.webp", name: "cat2" },
     { file: "nhclac/image/cat3.webp", name: "cat3" },
+    { file: "nhclac/image/cat4.webp", name: "cat4" },
     { file: "nhclac/image/taskbanner.webp", name: "taskbanner" },
     { file: "nhclac/image/map0.webp", name: "map0" },
     { file: "nhclac/image/map01.webp", name: "map01" },
