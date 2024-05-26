@@ -1,5 +1,6 @@
 const nhclac = {
   image: [
+    { file: "nhclac/image/dog.webp", name: "dog" },
     { file: "nhclac/image/cat1.webp", name: "cat1" },
     { file: "nhclac/image/cat2.webp", name: "cat2" },
     { file: "nhclac/image/cat3.webp", name: "cat3" },
