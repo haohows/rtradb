@@ -17,6 +17,7 @@ const nhclac = {
     { file: "nhclac/image/evtitem02.webp", name: "evtitem02" },
     { file: "nhclac/image/evtitem03.webp", name: "evtitem03" },
     { file: "nhclac/image/evt1644.webp", name: "evt1644" },
+    { file: "nhclac/image/evt1684.webp", name: "evt1684" },
     { file: "nhclac/image/position.webp", name: "position" },
     { file: "nhclac/image/taskimg.webp", name: "taskimg" },
   ],
