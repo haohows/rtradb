@@ -1,0 +1,11 @@
+Model Information:
+* title:	Smile Mask (Kagetane mask)
+* source:	https://sketchfab.com/3d-models/smile-mask-kagetane-mask-e3fab138e8ca450d8e8d681b7d86ced1
+* author:	Dzuggy007 (https://sketchfab.com/Dzuggy007)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Smile Mask (Kagetane mask)" (https://sketchfab.com/3d-models/smile-mask-kagetane-mask-e3fab138e8ca450d8e8d681b7d86ced1) by Dzuggy007 (https://sketchfab.com/Dzuggy007) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

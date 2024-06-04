@@ -30,7 +30,9 @@ const nhclac = {
     { file: "nhclac/armark/position.mind", name: "position" },
     { file: "nhclac/armark/dinosaur.mind", name: "dinosaur" },
   ],
-  armodel: [],
+  armodel: [
+    { file: "nhclac/armodel/smilemask/scene.gltf", name: "smilemask" },
+  ],
   music: [],
   video: [],
 };
