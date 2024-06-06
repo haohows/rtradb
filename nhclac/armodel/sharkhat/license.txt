@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gawr Gura shark hat
+* source:	https://sketchfab.com/3d-models/gawr-gura-shark-hat-d55c74e5e65d4004895535d0139dc979
+* author:	Mr.Lime (https://sketchfab.com/Mr_Lime_2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gawr Gura shark hat" (https://sketchfab.com/3d-models/gawr-gura-shark-hat-d55c74e5e65d4004895535d0139dc979) by Mr.Lime (https://sketchfab.com/Mr_Lime_2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
