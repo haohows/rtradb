@@ -33,6 +33,8 @@ const nhclac = {
   armodel: [
     { file: "nhclac/armodel/smilemask/scene.gltf", name: "smilemask" },
     { file: "nhclac/armodel/witchhat/scene.gltf", name: "witchhat" },
+    { file: "nhclac/armodel/akatsukihat/scene.gltf", name: "akatsukihat" },
+    { file: "nhclac/armodel/samuraihat/scene.gltf", name: "samuraihat" },
   ],
   music: [],
   video: [],

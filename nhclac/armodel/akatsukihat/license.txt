@@ -1,0 +1,8 @@
+Model Information:
+* title:	Akatsuki Hat
+* source:	https://sketchfab.com/3d-models/akatsuki-hat-1242046ed83e4b6390aac1d5b37bb1cb
+* author:	Tigerar1 (https://sketchfab.com/allanromanreyes)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
