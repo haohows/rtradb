@@ -18,8 +18,8 @@ const mbook = {
     { file: "mbook/image/arimg/geometry.webp", name: "geometry" },
   ],
   armark: [
-    { file: "prayCard/armark/engrave.mind", name: "engrave" },
-    { file: "prayCard/armark/totem.mind", name: "totem" },
+    { file: "mbook/armark/engrave.mind", name: "engrave" },
+    { file: "mbook/armark/totem.mind", name: "totem" },
   ],
 };
 
