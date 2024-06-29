@@ -19,7 +19,7 @@ const mbook = {
   ],
   armark: [
     { file: "mbook/armark/engrave.mind", name: "engrave" },
-    { file: "mbook/armark/totem.mind", name: "totem" },
+    { file: "mbook/armark/geometry.mind", name: "geometry" },
   ],
 };
 
