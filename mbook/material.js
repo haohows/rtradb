@@ -6,7 +6,10 @@ const mbook = {
 
     // 角色
     { file: "mbook/image/player/normal.webp", name: "normal" },
+    { file: "mbook/image/player/confuse.webp", name: "confuse" },
+    { file: "mbook/image/player/maincharacter.webp", name: "maincharacter" },
     { file: "mbook/image/elf/normal.webp", name: "normal" },
+    { file: "mbook/image/elf/confuse.webp", name: "confuse" },
 
     // 背景
     { file: "mbook/image/evtbg/entrance.webp", name: "entrance" },
