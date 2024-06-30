@@ -1,9 +1,5 @@
 const mbook = {
   image: [
-    { file: "mbook/image/stu.webp", name: "stu" },
-    { file: "mbook/image/elf.webp", name: "elf" },
-    { file: "mbook/image/holyarea.webp", name: "holyarea" },
-
     // 角色
     { file: "mbook/image/player/normal.webp", name: "normal" },
     { file: "mbook/image/player/confuse.webp", name: "confuse" },
