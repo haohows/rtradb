@@ -49,6 +49,7 @@ const mbook = {
     { file: "mbook/image/clueobj/nirvana.webp", name: "nirvana" },
     { file: "mbook/image/clueobj/revelation.webp", name: "revelation" },
     { file: "mbook/image/clueobj/shuttle.webp", name: "shuttle" },
+    { file: "mbook/image/clueobj/ao.webp", name: "ao" },
 
     // AR顯示圖
     { file: "mbook/image/arimg/engrave.webp", name: "engrave" },
