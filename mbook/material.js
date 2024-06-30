@@ -4,17 +4,37 @@ const mbook = {
     { file: "mbook/image/elf.webp", name: "elf" },
     { file: "mbook/image/holyarea.webp", name: "holyarea" },
 
+    // 角色
+    { file: "mbook/image/player/normal.webp", name: "normal" },
+    { file: "mbook/image/elf/normal.webp", name: "normal" },
+
     // 背景
     { file: "mbook/image/evtbg/entrance.webp", name: "entrance" },
     { file: "mbook/image/evtbg/campus.webp", name: "campus" },
     { file: "mbook/image/evtbg/stonestarrysky.webp", name: "stonestarrysky" },
     { file: "mbook/image/evtbg/monument.webp", name: "monument" },
+    { file: "mbook/image/evtbg/cemetery.webp", name: "cemetery" },
+    { file: "mbook/image/evtbg/brickwall.webp", name: "brickwall" },
+    { file: "mbook/image/evtbg/lightmonument.webp", name: "lightmonument" },
+    { file: "mbook/image/evtbg/hall.webp", name: "hall" },
+    { file: "mbook/image/evtbg/church.webp", name: "church" },
 
     // 任務圖
     { file: "mbook/image/evtimg/gamecover.webp", name: "gamecover" },
+    { file: "mbook/image/evtimg/arrowdiagram.webp", name: "arrowdiagram" },
+    { file: "mbook/image/evtimg/damaged.webp", name: "damaged" },
+    { file: "mbook/image/evtimg/exam.webp", name: "exam" },
+    { file: "mbook/image/evtimg/explorer.webp", name: "explorer" },
+    { file: "mbook/image/evtimg/finger.webp", name: "finger" },
+    { file: "mbook/image/evtimg/portal.webp", name: "portal" },
+    { file: "mbook/image/evtimg/storm.webp", name: "storm" },
+    { file: "mbook/image/evtimg/wing.webp", name: "wing" },
 
     // 事件項目圖
-    { file: "mbook/image/evtitembg/starryskymural.webp", name: "starryskymural" },
+    {
+      file: "mbook/image/evtitembg/starryskymural.webp",
+      name: "starryskymural",
+    },
     { file: "mbook/image/evtitembg/phoenix.webp", name: "phoenix" },
     { file: "mbook/image/evtitembg/stele.webp", name: "stele" },
 
