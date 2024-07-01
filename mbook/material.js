@@ -29,6 +29,7 @@ const mbook = {
     { file: "mbook/image/evtimg/portal.webp", name: "portal" },
     { file: "mbook/image/evtimg/storm.webp", name: "storm" },
     { file: "mbook/image/evtimg/wing.webp", name: "wing" },
+    { file: "mbook/image/evtimg/ao.webp", name: "ao" },
 
     // 事件項目圖
     {
