@@ -30,6 +30,11 @@ const mbook = {
     { file: "mbook/image/evtimg/storm.webp", name: "storm" },
     { file: "mbook/image/evtimg/wing.webp", name: "wing" },
     { file: "mbook/image/evtimg/ao.webp", name: "ao" },
+    { file: "mbook/image/evtimg/headmaster.webp", name: "headmaster" },
+    { file: "mbook/image/evtimg/sah.webp", name: "sah" },
+    { file: "mbook/image/evtimg/sclchurch.webp", name: "sclchurch" },
+    { file: "mbook/image/evtimg/smst.webp", name: "smst" },
+    { file: "mbook/image/evtimg/smsttwo.webp", name: "smsttwo" },
 
     // 事件項目圖
     {
