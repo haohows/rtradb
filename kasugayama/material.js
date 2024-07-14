@@ -3,8 +3,8 @@ const kasugayama = {
   armark: [],
   armodel: [],
   music: [
-    { file: "kasugayama/music/one.mp3", name: "one" },
-    { file: "kasugayama/music/two.mp3", name: "two" },
+    { file: "kasugayama/music/one.MP3", name: "one" },
+    { file: "kasugayama/music/two.MP3", name: "two" },
   ],
   video: [],
 };
