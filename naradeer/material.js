@@ -9,6 +9,7 @@ const naradeer = {
     { file: "naradeer/image/role/rest.webp", name: "rest" },
     { file: "naradeer/image/role/bewilder.webp", name: "bewilder" },
     { file: "naradeer/image/role/confuse.webp", name: "confuse" },
+    { file: "naradeer/image/role/waiter.webp", name: "waiter" },
     { file: "naradeer/image/role/deer.webp", name: "deer" },
     { file: "naradeer/image/taskImg/deer.webp", name: "deer" },
     { file: "naradeer/image/taskImg/smoke.webp", name: "smoke" },
@@ -16,9 +17,10 @@ const naradeer = {
     { file: "naradeer/image/taskImg/toriistreet.webp", name: "toriistreet" },
     { file: "naradeer/image/evtbg/street.webp", name: "street" },
   ],
-  armark: [
-
-  ],
+  armark: [],
+  armodel: [],
+  music: [],
+  video: [],
 };
 
 window.setNaradeer = () => {

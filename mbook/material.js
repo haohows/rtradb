@@ -68,6 +68,9 @@ const mbook = {
     { file: "mbook/armark/engrave.mind", name: "engrave" },
     { file: "mbook/armark/geometry.mind", name: "geometry" },
   ],
+  armodel: [],
+  music: [],
+  video: [],
 };
 
 window.setMbook = () => {
