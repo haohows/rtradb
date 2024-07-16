@@ -11,7 +11,6 @@ const naradeer = {
     { file: "naradeer/image/role/confuse.webp", name: "confuse" },
     { file: "naradeer/image/role/waiter.webp", name: "waiter" },
     { file: "naradeer/image/role/deer.webp", name: "deer" },
-    { file: "naradeer/image/role/follow.webp", name: "follow" },
     { file: "naradeer/image/taskImg/deer.webp", name: "deer" },
     { file: "naradeer/image/taskImg/smoke.webp", name: "smoke" },
     { file: "naradeer/image/taskImg/transform.webp", name: "transform" },
