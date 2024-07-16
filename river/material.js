@@ -8,7 +8,7 @@ const river = {
   armark: [],
   armodel: [],
   music: [
-    { file: "river/image/music/rivergod01.MP3", name: "rivergod01" },
+    { file: "river/music/rivergod01.MP3", name: "rivergod01" },
   ],
   video: [],
 };
