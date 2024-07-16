@@ -3,6 +3,7 @@ const river = {
     { file: "river/image/taskImg/cover.webp", name: "cover" },
     { file: "river/image/taskImg/unknown.webp", name: "unknown" },
     { file: "river/image/clueobj/brick.webp", name: "brick" },
+    { file: "river/image/evtbg/bgblack.webp", name: "bgblack" },
   ],
   armark: [],
   armodel: [],
