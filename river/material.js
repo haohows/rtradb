@@ -8,8 +8,7 @@ const river = {
     { file: "river/image/arimg/tree.webp", name: "tree" },
   ],
   armark: [
-    { file: "river/armark/flower.mind", name: "flower" },
-    { file: "river/armark/tree.mind", name: "tree" },
+    { file: "river/armark/flowertree.mind", name: "flowertree" },
   ],
   armodel: [],
   music: [
