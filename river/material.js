@@ -6,9 +6,11 @@ const river = {
     { file: "river/image/evtbg/bgblack.webp", name: "bgblack" },
     { file: "river/image/arimg/flower.webp", name: "flower" },
     { file: "river/image/arimg/tree.webp", name: "tree" },
+    { file: "river/image/arimg/fire.webp", name: "fire" },
   ],
   armark: [
     { file: "river/armark/flowertree.mind", name: "flowertree" },
+    { file: "river/armark/fire.mind", name: "fire" },
   ],
   armodel: [],
   music: [
