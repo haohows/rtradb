@@ -1,7 +1,7 @@
 const river = {
   image: [
     // 用戶照片
-    { file: "mbook/image/design/clientphoto.webp", name: "clientphoto" },
+    { file: "river/image/design/clientphoto.webp", name: "clientphoto" },
 
     { file: "river/image/taskImg/cover.webp", name: "cover" },
     { file: "river/image/taskImg/unknown.webp", name: "unknown" },
