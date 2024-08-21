@@ -1,7 +1,5 @@
 const mbook = {
   image: [
-    // 用戶照片
-    { file: "mbook/image/design/clientphoto.webp", name: "clientphoto" },
     // 角色
     { file: "mbook/image/player/normal.webp", name: "normal" },
     { file: "mbook/image/player/confuse.webp", name: "confuse" },
