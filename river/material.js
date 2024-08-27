@@ -45,7 +45,15 @@ const river = {
     { file: "river/armark/temple.mind", name: "temple" },
   ],
   armodel: [],
-  music: [{ file: "river/music/rivergod01.MP3", name: "rivergod01" }],
+  music: [
+    { file: "river/music/0-河神打招呼.MP3", name: "0-河神打招呼" },
+    { file: "river/music/1-廣福宮.MP3", name: "1-廣福宮" },
+    { file: "river/music/2-新莊福德宮.MP3", name: "2-新莊福德宮" },
+    { file: "river/music/3-大樹公.MP3", name: "3-大樹公" },
+    { file: "river/music/4-慈祐宮.MP3", name: "4-慈祐宮" },
+    { file: "river/music/5-潮江寺.MP3", name: "5-潮江寺" },
+    { file: "river/music/6-文昌祠.MP3", name: "6-文昌祠" },
+  ],
   video: [],
 };
 
