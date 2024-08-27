@@ -29,9 +29,11 @@ const river = {
     { file: "river/image/clueobj/wenchangpoetry.webp", name: "wenchangpoetry" },
 
     // 標記
-    { file: "river/image/arimg/flower.webp", name: "flower" },
-    { file: "river/image/arimg/tree.webp", name: "tree" },
-    { file: "river/image/arimg/fire.webp", name: "fire" },
+    { file: "river/image/arimg/chaojiang.webp", name: "chaojiang" },
+    { file: "river/image/arimg/ciyoupalace.webp", name: "ciyoupalace" },
+    { file: "river/image/arimg/ford.webp", name: "ford" },
+    { file: "river/image/arimg/guangfu.webp", name: "guangfu" },
+    { file: "river/image/arimg/wenchang.webp", name: "wenchang" },
   ],
 
   armark: [
