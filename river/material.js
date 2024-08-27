@@ -54,6 +54,7 @@ const river = {
     { file: "river/music/5-潮江寺.mp3", name: "5-潮江寺" },
     { file: "river/music/6-文昌祠.mp3", name: "6-文昌祠" },
     { file: "river/music/7-列車廣播-劉銘傳鐵路.mp3", name: "7-列車廣播-劉銘傳鐵路" },
+    { file: "river/music/8-列車廣播-即將到站.mp3", name: "8-列車廣播-即將到站" },
   ],
   video: [],
 };
