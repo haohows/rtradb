@@ -34,6 +34,7 @@ const river = {
     { file: "river/image/arimg/ford.webp", name: "ford" },
     { file: "river/image/arimg/guangfu.webp", name: "guangfu" },
     { file: "river/image/arimg/wenchang.webp", name: "wenchang" },
+    { file: "river/image/arimg/bigtree.webp", name: "bigtree" },
   ],
 
   armark: [
@@ -43,6 +44,7 @@ const river = {
     { file: "river/armark/guangfu.mind", name: "guangfu" },
     { file: "river/armark/wenchang.mind", name: "wenchang" },
     { file: "river/armark/temple.mind", name: "temple" },
+    { file: "river/armark/bigtree.mind", name: "bigtree" },
   ],
   armodel: [],
   music: [
