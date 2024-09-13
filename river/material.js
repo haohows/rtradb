@@ -33,12 +33,12 @@ const river = {
     { file: "river/image/clueobj/wenchangpoetry.webp", name: "wenchangpoetry" },
 
     // 事件項目
-    { file: "river/image/clueobj/earth.webp", name: "earth" },
-    { file: "river/image/clueobj/fire.webp", name: "fire" },
-    { file: "river/image/clueobj/gold.webp", name: "gold" },
-    { file: "river/image/clueobj/grass.webp", name: "grass" },
-    { file: "river/image/clueobj/water.webp", name: "water" },
-    { file: "river/image/clueobj/wood.webp", name: "wood" },
+    { file: "river/image/evtItem/earth.webp", name: "earth" },
+    { file: "river/image/evtItem/fire.webp", name: "fire" },
+    { file: "river/image/evtItem/gold.webp", name: "gold" },
+    { file: "river/image/evtItem/grass.webp", name: "grass" },
+    { file: "river/image/evtItem/water.webp", name: "water" },
+    { file: "river/image/evtItem/wood.webp", name: "wood" },
 
 
     // 標記
