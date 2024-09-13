@@ -4,6 +4,7 @@ const river = {
     { file: "river/image/design/clientphoto.webp", name: "clientphoto" },
 
     // 角色
+    { file: "river/image/role/rivergod.webp", name: "rivergod" },
     { file: "river/image/role/dragon.webp", name: "dragon" },
     { file: "river/image/role/fish.webp", name: "fish" },
     { file: "river/image/role/kirin.webp", name: "kirin" },
@@ -11,10 +12,13 @@ const river = {
     { file: "river/image/role/tree.webp", name: "tree" },
 
     // 背景
+    { file: "river/image/evtbg/entrance.webp", name: "entrance" },
     { file: "river/image/evtbg/bgblack.webp", name: "bgblack" },
 
     // 任務
     { file: "river/image/taskImg/cover.webp", name: "cover" },
+    { file: "river/image/taskImg/preamble1.webp", name: "preamble1" },
+    { file: "river/image/taskImg/preamble2.webp", name: "preamble2" },
     { file: "river/image/taskImg/unknown.webp", name: "unknown" },
     { file: "river/image/taskImg/floortiles.webp", name: "floortiles" },
     { file: "river/image/taskImg/steamtrain.webp", name: "steamtrain" },
@@ -27,6 +31,15 @@ const river = {
     { file: "river/image/clueobj/guangfupoetry.webp", name: "guangfupoetry" },
     { file: "river/image/clueobj/treepoetry.webp", name: "treepoetry" },
     { file: "river/image/clueobj/wenchangpoetry.webp", name: "wenchangpoetry" },
+
+    // 事件項目
+    { file: "river/image/clueobj/earth.webp", name: "earth" },
+    { file: "river/image/clueobj/fire.webp", name: "fire" },
+    { file: "river/image/clueobj/gold.webp", name: "gold" },
+    { file: "river/image/clueobj/grass.webp", name: "grass" },
+    { file: "river/image/clueobj/water.webp", name: "water" },
+    { file: "river/image/clueobj/wood.webp", name: "wood" },
+
 
     // 標記
     { file: "river/image/arimg/chaojiang.webp", name: "chaojiang" },
