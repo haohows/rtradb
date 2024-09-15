@@ -23,6 +23,13 @@ const river = {
     { file: "river/image/taskImg/floortiles.webp", name: "floortiles" },
     { file: "river/image/taskImg/steamtrain.webp", name: "steamtrain" },
 
+    { file: "river/image/taskImg/endearth.webp", name: "endearth" },
+    { file: "river/image/taskImg/endfire.webp", name: "endfire" },
+    { file: "river/image/taskImg/endgold.webp", name: "endgold" },
+    { file: "river/image/taskImg/endgrass.webp", name: "endgrass" },
+    { file: "river/image/taskImg/endwater.webp", name: "endwater" },
+    { file: "river/image/taskImg/endwood.webp", name: "endwood" },
+
     // 線索
     { file: "river/image/clueobj/floortiles.webp", name: "floortiles" },
     { file: "river/image/clueobj/chaojiangpoetry.webp", name: "chaojiangpoetry" },
