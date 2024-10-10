@@ -42,11 +42,11 @@ const kasugayama = {
     { file: "kasugayama/image/taskimg/task_29.webp", name: "task_29" },
 
     // 物件
-    { file: "kasugayama/image/objtimg/objtimg_1.webp", name: "objtimg_1" },
-    { file: "kasugayama/image/objtimg/objtimg_2.webp", name: "objtimg_2" },
-    { file: "kasugayama/image/objtimg/objtimg_3.webp", name: "objtimg_3" },
-    { file: "kasugayama/image/objtimg/objtimg_4.webp", name: "objtimg_4" },
-    { file: "kasugayama/image/objtimg/objtimg_5.webp", name: "objtimg_5" },
+    { file: "kasugayama/image/objimg/objimg_1.webp", name: "objimg_1" },
+    { file: "kasugayama/image/objimg/objimg_2.webp", name: "objimg_2" },
+    { file: "kasugayama/image/objimg/objimg_3.webp", name: "objimg_3" },
+    { file: "kasugayama/image/objimg/objimg_4.webp", name: "objimg_4" },
+    { file: "kasugayama/image/objimg/objimg_5.webp", name: "objimg_5" },
 
     // 事件項目
     { file: "kasugayama/image/itembg/itembg_1.webp", name: "itembg_1" },
