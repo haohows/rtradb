@@ -74,6 +74,7 @@ const kasugayama = {
     { file: "kasugayama/image/evtbg/evtbg_9.webp", name: "evtbg_9" },
     { file: "kasugayama/image/evtbg/evtbg_10.webp", name: "evtbg_10" },
     { file: "kasugayama/image/evtbg/evtbg_11.webp", name: "evtbg_11" },
+    { file: "kasugayama/image/evtbg/entrypointbg.webp", name: "entrypointbg" },
   ],
   armark: [],
   armodel: [],
