@@ -47,6 +47,7 @@ const kasugayama = {
     { file: "kasugayama/image/objimg/objimg_3.webp", name: "objimg_3" },
     { file: "kasugayama/image/objimg/objimg_4.webp", name: "objimg_4" },
     { file: "kasugayama/image/objimg/objimg_5.webp", name: "objimg_5" },
+    { file: "kasugayama/image/objimg/objimg_6.webp", name: "objimg_6" },
 
     // 事件項目
     { file: "kasugayama/image/itembg/itembg_1.webp", name: "itembg_1" },
