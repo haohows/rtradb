@@ -40,6 +40,9 @@ const kasugayama = {
     { file: "kasugayama/image/taskimg/task_27.webp", name: "task_27" },
     { file: "kasugayama/image/taskimg/task_28.webp", name: "task_28" },
     { file: "kasugayama/image/taskimg/task_29.webp", name: "task_29" },
+    { file: "kasugayama/image/taskimg/transform1.webp", name: "transform1" },
+    { file: "kasugayama/image/taskimg/transform2.webp", name: "transform2" },
+    { file: "kasugayama/image/taskimg/transform3.webp", name: "transform3" },
 
     // 物件
     { file: "kasugayama/image/objimg/objimg_1.webp", name: "objimg_1" },
