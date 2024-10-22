@@ -80,8 +80,13 @@ const kasugayama = {
     { file: "kasugayama/image/evtbg/evtbg_10.webp", name: "evtbg_10" },
     { file: "kasugayama/image/evtbg/evtbg_11.webp", name: "evtbg_11" },
     { file: "kasugayama/image/evtbg/entrypointbg.webp", name: "entrypointbg" },
+
+    // AR顯示
+    { file: "kasugayama/image/arimg/arimg_1.webp", name: "arimg_1" },
   ],
-  armark: [],
+  armark: [
+    { file: "kasugayama/armark/dog.mind", name: "dog" },
+  ],
   armodel: [],
   music: [],
   video: [],
