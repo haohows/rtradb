@@ -89,6 +89,7 @@ const kasugayama = {
   armark: [
     { file: "kasugayama/armark/dog.mind", name: "dog" },
     { file: "kasugayama/armark/badge.mind", name: "badge" },
+    { file: "kasugayama/armark/torii.mind", name: "torii" },
   ],
   armodel: [
     // 3D模型
