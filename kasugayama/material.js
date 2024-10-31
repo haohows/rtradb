@@ -88,8 +88,12 @@ const kasugayama = {
   ],
   armark: [
     { file: "kasugayama/armark/dog.mind", name: "dog" },
+    { file: "kasugayama/armark/badge.mind", name: "badge" },
   ],
-  armodel: [],
+  armodel: [
+    // 3D模型
+    { file: "kasugayama/armodel/toriifive.glb", name: "toriifive" },
+  ],
   music: [],
   video: [],
 };
