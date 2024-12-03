@@ -1,5 +1,10 @@
 const baseSet = {
-  image: [{ file: "basesetting/image/avatar.webp", name: "品牌LOGO" }],
+  image: [
+    { file: "basesetting/image/avatar.webp", name: "品牌LOGO" },
+    { file: "basesetting/image/unkChar.webp", name: "未知人物" },
+    { file: "basesetting/image/taskBg.webp", name: "任務黑幕" },
+    { file: "basesetting/image/bgShade.webp", name: "背景黑幕" },
+  ],
   armark: [],
   armodel: [],
   music: [],
