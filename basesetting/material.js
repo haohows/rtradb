@@ -4,6 +4,8 @@ const baseSet = {
     { file: "basesetting/image/unkChar.webp", name: "未知人物" },
     { file: "basesetting/image/taskBg.webp", name: "任務黑幕" },
     { file: "basesetting/image/bgShade.webp", name: "背景黑幕" },
+    { file: "basesetting/image/mirror-s.webp", name: "春日鏡" },
+    { file: "basesetting/image/mirror-m.webp", name: "春日鏡" },
   ],
   armark: [],
   armodel: [],
