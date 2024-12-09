@@ -6,6 +6,7 @@ const baseSet = {
     { file: "basesetting/image/bgShade.webp", name: "背景黑幕" },
     { file: "basesetting/image/mirror-s.png", name: "春日鏡" },
     { file: "basesetting/image/mirror-m.png", name: "春日鏡" },
+    { file: "basesetting/image/mirror3.png", name: "春日鏡" },
   ],
   armark: [],
   armodel: [],
