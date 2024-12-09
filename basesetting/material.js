@@ -7,6 +7,7 @@ const baseSet = {
     { file: "basesetting/image/mirror-s.png", name: "春日鏡" },
     { file: "basesetting/image/mirror-m.png", name: "春日鏡" },
     { file: "basesetting/image/mirror3.png", name: "春日鏡" },
+    { file: "basesetting/image/mirrorgod.png", name: "春日之神" },
   ],
   armark: [],
   armodel: [],
