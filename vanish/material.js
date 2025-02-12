@@ -5,6 +5,7 @@ const vanish = {
     { file: "vanish/image/evtbg/street.webp", name: "street" },
     { file: "vanish/image/clueobj/timeGuide.webp", name: "timeGuide" },
     { file: "vanish/image/clueobj/rebirthRiddle.webp", name: "rebirthRiddle" },
+    { file: "vanish/image/arimg/trainNo.webp", name: "trainNo" },
   ],
   armark: [],
   armodel: [],
