@@ -4,6 +4,7 @@ const vanish = {
     { file: "vanish/image/taskImg/toriistreet.webp", name: "toriistreet" },
     { file: "vanish/image/taskImg/cityShadow.webp", name: "cityShadow" },
     { file: "vanish/image/taskImg/bingoCard.webp", name: "bingoCard" },
+    { file: "vanish/image/taskImg/clockPhantom.webp", name: "clockPhantom" },
     { file: "vanish/image/evtbg/street.webp", name: "street" },
     { file: "vanish/image/evtbg/clockPhantom.webp", name: "clockPhantom" },
     { file: "vanish/image/evtbg/steamEra.webp", name: "steamEra" },
