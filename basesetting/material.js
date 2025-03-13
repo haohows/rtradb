@@ -6,6 +6,7 @@ const baseSet = {
   ],
   armark: [
     { file: "basesetting/armark/aropt.mind", name: "aropt" },
+    { file: "basesetting/armark/tiger.mind", name: "tiger" },
   ],
   armodel: [],
   music: [],
