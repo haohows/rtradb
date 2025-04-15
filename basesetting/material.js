@@ -3,6 +3,8 @@ const baseSet = {
     { file: "basesetting/image/avatar.webp", name: "品牌LOGO" },
     { file: "basesetting/image/tiger.webp", name: "tiger" },
     { file: "basesetting/image/whale.webp", name: "whale" },
+    { file: "basesetting/image/jprestaurant.webp", name: "jprestaurant" },
+    { file: "basesetting/image/sushi.webp", name: "sushi" },
   ],
   armark: [
     { file: "basesetting/armark/aropt.mind", name: "aropt" },
