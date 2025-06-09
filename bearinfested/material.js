@@ -9,7 +9,10 @@ const bearinfested = {
     { file: "bearinfested/image/objimg/azimuthclock.webp", name: "azimuthclock" },
     { file: "bearinfested/image/objimg/starrysky.webp", name: "starrysky" },
   ],
-  armark: [],
+  armark: [
+     { file: "bearinfested/armark/in.mind", name: "in" },
+      { file: "bearinfested/armark/sun.mind", name: "sun" },
+  ],
   armodel: [],
   music: [],
   video: [],
