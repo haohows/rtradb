@@ -15,7 +15,7 @@ const bearinfested = {
     { file: "bearinfested/image/arimg/imperialseal04.webp", name: "imperialseal04" },
   ],
   armark: [
-    { file: "bearinfested/armark/in.mind", name: "in" },
+    { file: "bearinfested/armark/zhuyin.mind", name: "zhuyin" },
     { file: "bearinfested/armark/sun.mind", name: "sun" },
   ],
   armodel: [],
