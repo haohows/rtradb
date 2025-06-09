@@ -6,6 +6,8 @@ const bearinfested = {
     { file: "bearinfested/image/objimg/subway.webp", name: "subway" },
     { file: "bearinfested/image/objimg/buddha.webp", name: "buddha" },
     { file: "bearinfested/image/objimg/light.webp", name: "light" },
+    { file: "bearinfested/image/objimg/azimuthclock.webp", name: "azimuthclock" },
+    { file: "bearinfested/image/objimg/starrysky.webp", name: "starrysky" },
   ],
   armark: [],
   armodel: [],
