@@ -30,6 +30,7 @@ const bearinfested = {
     { file: "bearinfested/image/role/irole10.webp", name: "irole10" },
     { file: "bearinfested/image/role/srole01.webp", name: "srole01" },
     { file: "bearinfested/image/evtbg/taipei101.webp", name: "taipei101" },
+      { file: "bearinfested/image/evtbg/snak.webp", name: "snak" },
     { file: "bearinfested/image/taskimg/coastaltown.webp", name: "coastaltown" },
     { file: "bearinfested/image/objimg/subway.webp", name: "subway" },
     { file: "bearinfested/image/objimg/buddha.webp", name: "buddha" },
