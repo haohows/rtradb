@@ -102,6 +102,7 @@ const bearinfested = {
     { file: "bearinfested/image/arimg/imperialseal03.webp", name: "imperialseal03" },
     { file: "bearinfested/image/arimg/imperialseal04.webp", name: "imperialseal04" },
     { file: "bearinfested/image/arimg/deepshrine.webp", name: "deepshrine" },
+    { file: "bearinfested/image/itembg/itembg01.webp", name: "itembg01" },
   ],
   armark: [
     { file: "bearinfested/armark/zhuyin.mind", name: "zhuyin" },
