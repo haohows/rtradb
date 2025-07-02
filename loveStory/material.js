@@ -10,6 +10,7 @@ const loveStory = {
     { file: "loveStory/image/role/heroine.webp", name: "heroine" },
 
     { file: "loveStory/image/taskimg/wedding.webp", name: "wedding" },
+    { file: "loveStory/image/itembg/itembg.webp", name: "itembg" },
   ],
   armark: [],
   armodel: [],
