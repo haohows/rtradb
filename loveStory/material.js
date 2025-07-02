@@ -8,6 +8,7 @@ const loveStory = {
 
     { file: "loveStory/image/role/hero.webp", name: "hero" },
     { file: "loveStory/image/role/heroine.webp", name: "heroine" },
+    { file: "loveStory/image/role/guard.webp", name: "guard" },
 
     { file: "loveStory/image/taskimg/wedding.webp", name: "wedding" },
     { file: "loveStory/image/itembg/itembg.webp", name: "itembg" },
