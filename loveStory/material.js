@@ -5,6 +5,7 @@ const loveStory = {
     { file: "loveStory/image/evtbg/meeting.webp", name: "meeting" },
     { file: "loveStory/image/evtbg/runaway.webp", name: "runaway" },
     { file: "loveStory/image/evtbg/speech.webp", name: "speech" },
+    { file: "loveStory/image/evtbg/evtbg00.webp", name: "evtbg00" },
     { file: "loveStory/image/evtbg/evtbg02.webp", name: "evtbg02" },
     { file: "loveStory/image/evtbg/evtbg03.webp", name: "evtbg03" },
     { file: "loveStory/image/evtbg/evtbg04.webp", name: "evtbg04" },
