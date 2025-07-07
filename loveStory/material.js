@@ -34,6 +34,9 @@ const loveStory = {
     { file: "loveStory/image/itembg/itembg07.webp", name: "itembg07" },
     { file: "loveStory/image/itembg/itembg08.webp", name: "itembg08" },
     { file: "loveStory/image/itembg/itembg09.webp", name: "itembg09" },
+
+
+    { file: "loveStory/image/objImg/obj01.webp", name: "obj01" },
   ],
   armark: [],
   armodel: [],
