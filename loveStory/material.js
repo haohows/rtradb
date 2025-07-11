@@ -37,6 +37,10 @@ const loveStory = {
 
 
     { file: "loveStory/image/objImg/obj01.webp", name: "obj01" },
+    { file: "loveStory/image/objImg/obj02.webp", name: "obj02" },
+    { file: "loveStory/image/objImg/obj03.webp", name: "obj03" },
+    { file: "loveStory/image/objImg/obj04.webp", name: "obj04" },
+    { file: "loveStory/image/objImg/obj05.webp", name: "obj05" },
 
     { file: "loveStory/image/panorama/panorama01.webp", name: "panorama01" },
   ],
