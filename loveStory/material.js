@@ -35,7 +35,6 @@ const loveStory = {
     { file: "loveStory/image/itembg/itembg08.webp", name: "itembg08" },
     { file: "loveStory/image/itembg/itembg09.webp", name: "itembg09" },
 
-
     { file: "loveStory/image/objImg/obj01.webp", name: "obj01" },
     { file: "loveStory/image/objImg/obj02.webp", name: "obj02" },
     { file: "loveStory/image/objImg/obj03.webp", name: "obj03" },
@@ -43,8 +42,10 @@ const loveStory = {
     { file: "loveStory/image/objImg/obj05.webp", name: "obj05" },
 
     { file: "loveStory/image/panorama/panorama01.webp", name: "panorama01" },
+
+    { file: "loveStory/image/arimg/arview01.webp", name: "arview01" },
   ],
-  armark: [],
+  armark: [{ file: "loveStory/armark/targets.mind", name: "targets" }],
   armodel: [],
   music: [],
   video: [],
