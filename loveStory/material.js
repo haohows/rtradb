@@ -19,6 +19,8 @@ const loveStory = {
     { file: "loveStory/image/role/guard.webp", name: "guard" },
 
     { file: "loveStory/image/taskimg/wedding.webp", name: "wedding" },
+    { file: "loveStory/image/taskimg/boy.webp", name: "boy" },
+    { file: "loveStory/image/taskimg/girl.webp", name: "girl" },
     { file: "loveStory/image/taskimg/task01.webp", name: "task01" },
     { file: "loveStory/image/taskimg/task02.webp", name: "task02" },
     { file: "loveStory/image/taskimg/task03.webp", name: "task03" },
