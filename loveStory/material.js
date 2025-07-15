@@ -47,8 +47,12 @@ const loveStory = {
     { file: "loveStory/image/panorama/panorama01.webp", name: "panorama01" },
 
     { file: "loveStory/image/arimg/arview.webp", name: "arview" },
+    { file: "loveStory/image/arimg/catar.webp", name: "catar" },
   ],
-  armark: [{ file: "loveStory/armark/targets.mind", name: "targets" }],
+  armark: [
+    { file: "loveStory/armark/targets.mind", name: "targets" },
+    { file: "loveStory/armark/cat.mind", name: "cat" },
+  ],
   armodel: [],
   music: [],
   video: [],
