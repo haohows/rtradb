@@ -106,6 +106,12 @@ const bearinfested = {
 
     { file: "bearinfested/image/guidelines/guidelines01.webp", name: "guidelines01" },
     { file: "bearinfested/image/guidelines/guidelines02.webp", name: "guidelines02" },
+    { file: "bearinfested/image/guidelines/guidelines03.webp", name: "guidelines03" },
+    { file: "bearinfested/image/guidelines/guidelines04.webp", name: "guidelines04" },
+    { file: "bearinfested/image/guidelines/guidelines05.webp", name: "guidelines05" },
+    { file: "bearinfested/image/guidelines/guidelines06.webp", name: "guidelines06" },
+    { file: "bearinfested/image/guidelines/guidelines07.webp", name: "guidelines07" },
+    { file: "bearinfested/image/guidelines/guidelines08.webp", name: "guidelines08" },
   ],
   armark: [
     { file: "bearinfested/armark/zhuyin.mind", name: "zhuyin" },
