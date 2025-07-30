@@ -51,6 +51,13 @@ const loveStory = {
 
     { file: "loveStory/image/arimg/arview.webp", name: "arview" },
     { file: "loveStory/image/arimg/catar.webp", name: "catar" },
+    { file: "loveStory/image/arimg/cat1.webp", name: "cat1" },
+    { file: "loveStory/image/arimg/cat2.webp", name: "cat2" },
+    { file: "loveStory/image/arimg/cat3.webp", name: "cat3" },
+    { file: "loveStory/image/arimg/cat4.webp", name: "cat4" },
+    { file: "loveStory/image/arimg/cat5.webp", name: "cat5" },
+    { file: "loveStory/image/arimg/cat6.webp", name: "cat6" },
+    { file: "loveStory/image/arimg/cat7.webp", name: "cat7" },
   ],
   armark: [
     { file: "loveStory/armark/targets.mind", name: "targets" },
