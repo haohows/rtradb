@@ -26,6 +26,7 @@ const loveStory = {
     { file: "loveStory/image/taskimg/task03.webp", name: "task03" },
     { file: "loveStory/image/taskimg/task04.webp", name: "task04" },
     { file: "loveStory/image/taskimg/task05.webp", name: "task05" },
+    { file: "loveStory/image/taskimg/task06.webp", name: "task06" },
 
     { file: "loveStory/image/itembg/itembg.webp", name: "itembg" },
     { file: "loveStory/image/itembg/itembg02.webp", name: "itembg02" },
