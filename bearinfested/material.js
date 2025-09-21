@@ -103,7 +103,6 @@ const bearinfested = {
     { file: "bearinfested/image/arimg/imperialseal04.webp", name: "imperialseal04" },
     { file: "bearinfested/image/arimg/deepshrine.webp", name: "deepshrine" },
     { file: "bearinfested/image/arimg/platycodon.webp", name: "platycodon" },
-       { file: "bearinfested/image/arimg/toriiclue.webp", name: "toriiclue" },
     { file: "bearinfested/image/itembg/itembg01.webp", name: "itembg01" },
 
     { file: "bearinfested/image/guidelines/guidelines01.webp", name: "guidelines01" },
@@ -115,6 +114,7 @@ const bearinfested = {
     { file: "bearinfested/image/guidelines/guidelines07.webp", name: "guidelines07" },
     { file: "bearinfested/image/guidelines/guidelines08.webp", name: "guidelines08" },
     { file: "bearinfested/image/guidelines/guidelines09.webp", name: "guidelines09" },
+    { file: "bearinfested/image/guidelines/guidelines10.webp", name: "guidelines10" },
   ],
   armark: [
     { file: "bearinfested/armark/zhuyin.mind", name: "zhuyin" },
