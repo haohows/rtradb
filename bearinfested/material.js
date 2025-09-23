@@ -70,6 +70,8 @@ const bearinfested = {
     { file: "bearinfested/image/evtbg/bg29.webp", name: "bg29" },
     { file: "bearinfested/image/evtbg/bg30.webp", name: "bg30" },
     { file: "bearinfested/image/evtbg/bg31.webp", name: "bg31" },
+    { file: "bearinfested/image/evtbg/bg32.webp", name: "bg32" },
+    { file: "bearinfested/image/evtbg/bg33.webp", name: "bg33" },
 
     { file: "bearinfested/image/taskimg/task01.webp", name: "task01" },
     { file: "bearinfested/image/taskimg/task02.webp", name: "task02" },
