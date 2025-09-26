@@ -1,5 +1,5 @@
 const nazotabi = {
-  image: [],
+  image: [{ file: "nazotabi/image/task/task01.webp", name: "task01" }],
   armark: [],
   armodel: [],
   music: [
