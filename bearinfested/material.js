@@ -38,6 +38,18 @@ const bearinfested = {
     { file: "bearinfested/image/role/doorman.webp", name: "doorman" },
     { file: "bearinfested/image/role/mirror.webp", name: "mirror" },
     { file: "bearinfested/image/role/runemrror.webp", name: "runemrror" },
+
+    { file: "bearinfested/image/role/miko01.webp", name: "miko01" },
+    { file: "bearinfested/image/role/miko02.webp", name: "miko02" },
+    { file: "bearinfested/image/role/miko03.webp", name: "miko03" },
+    { file: "bearinfested/image/role/miko04.webp", name: "miko04" },
+    { file: "bearinfested/image/role/miko05.webp", name: "miko05" },
+    { file: "bearinfested/image/role/miko06.webp", name: "miko06" },
+    { file: "bearinfested/image/role/miko07.webp", name: "miko07" },
+    { file: "bearinfested/image/role/miko08.webp", name: "miko08" },
+    { file: "bearinfested/image/role/miko09.webp", name: "miko09" },
+    { file: "bearinfested/image/role/miko10.webp", name: "miko10" },
+
     { file: "bearinfested/image/evtbg/bg00.webp", name: "bg00" },
     { file: "bearinfested/image/evtbg/bg01.webp", name: "bg01" },
     { file: "bearinfested/image/evtbg/bg02.webp", name: "bg02" },
