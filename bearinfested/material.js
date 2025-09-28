@@ -49,6 +49,7 @@ const bearinfested = {
     { file: "bearinfested/image/role/miko08.webp", name: "miko08" },
     { file: "bearinfested/image/role/miko09.webp", name: "miko09" },
     { file: "bearinfested/image/role/miko10.webp", name: "miko10" },
+    { file: "bearinfested/image/role/miko11.webp", name: "miko11" },
 
     { file: "bearinfested/image/evtbg/bg00.webp", name: "bg00" },
     { file: "bearinfested/image/evtbg/bg01.webp", name: "bg01" },
