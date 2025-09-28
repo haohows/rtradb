@@ -122,6 +122,7 @@ const bearinfested = {
     { file: "bearinfested/image/objprops/props05.webp", name: "props05" },
     { file: "bearinfested/image/objprops/props06.webp", name: "props06" },
     { file: "bearinfested/image/objprops/props07.webp", name: "props07" },
+    { file: "bearinfested/image/objprops/props08.webp", name: "props08" },
 
     { file: "bearinfested/image/arimg/imperialseal00.webp", name: "imperialseal00" },
     { file: "bearinfested/image/arimg/imperialseal01.webp", name: "imperialseal01" },
