@@ -36,8 +36,6 @@ const bearinfested = {
     { file: "bearinfested/image/role/view04.webp", name: "view04" },
     { file: "bearinfested/image/role/view05.webp", name: "view05" },
     { file: "bearinfested/image/role/doorman.webp", name: "doorman" },
-    { file: "bearinfested/image/role/mirror.webp", name: "mirror" },
-    { file: "bearinfested/image/role/runemrror.webp", name: "runemrror" },
 
     { file: "bearinfested/image/role/miko01.webp", name: "miko01" },
     { file: "bearinfested/image/role/miko02.webp", name: "miko02" },
@@ -109,16 +107,22 @@ const bearinfested = {
     { file: "bearinfested/image/taskimg/task19.webp", name: "task19" },
     { file: "bearinfested/image/taskimg/task20.webp", name: "task20" },
     { file: "bearinfested/image/taskimg/task21.webp", name: "task21" },
+
     { file: "bearinfested/image/objimg/subway.webp", name: "subway" },
     { file: "bearinfested/image/objimg/buddha.webp", name: "buddha" },
     { file: "bearinfested/image/objimg/light.webp", name: "light" },
     { file: "bearinfested/image/objimg/azimuthclock.webp", name: "azimuthclock" },
     { file: "bearinfested/image/objimg/starrysky.webp", name: "starrysky" },
     { file: "bearinfested/image/objimg/incantation.webp", name: "incantation" },
+
     { file: "bearinfested/image/objprops/props01.webp", name: "props01" },
     { file: "bearinfested/image/objprops/props02.webp", name: "props02" },
     { file: "bearinfested/image/objprops/props03.webp", name: "props03" },
     { file: "bearinfested/image/objprops/props04.webp", name: "props04" },
+    { file: "bearinfested/image/objprops/props05.webp", name: "props05" },
+    { file: "bearinfested/image/objprops/props06.webp", name: "props06" },
+    { file: "bearinfested/image/objprops/props07.webp", name: "props07" },
+
     { file: "bearinfested/image/arimg/imperialseal00.webp", name: "imperialseal00" },
     { file: "bearinfested/image/arimg/imperialseal01.webp", name: "imperialseal01" },
     { file: "bearinfested/image/arimg/imperialseal02.webp", name: "imperialseal02" },
