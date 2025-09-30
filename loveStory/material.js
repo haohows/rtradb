@@ -91,6 +91,7 @@ const loveStory = {
   armark: [
     { file: "loveStory/armark/targets.mind", name: "targets" },
     { file: "loveStory/armark/cat.mind", name: "cat" },
+    { file: "loveStory/armark/basket.mind", name: "basket" },
   ],
   armodel: [],
   music: [],
