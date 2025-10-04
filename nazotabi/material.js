@@ -13,6 +13,7 @@ const nazotabi = {
     { file: "nazotabi/image/task/task11.webp", name: "task11" },
     { file: "nazotabi/image/task/task12.webp", name: "task12" },
     { file: "nazotabi/image/task/task13.webp", name: "task13" },
+    { file: "nazotabi/image/task/task14.webp", name: "task14" },
   ],
   armark: [],
   armodel: [],
