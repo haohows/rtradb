@@ -147,6 +147,7 @@ const bearinfested = {
     { file: "bearinfested/image/guidelines/guidelines08.webp", name: "guidelines08" },
     { file: "bearinfested/image/guidelines/guidelines09.webp", name: "guidelines09" },
     { file: "bearinfested/image/guidelines/guidelines10.webp", name: "guidelines10" },
+    { file: "bearinfested/image/guidelines/guidelines11.webp", name: "guidelines11" },
   ],
   armark: [
     { file: "bearinfested/armark/zhuyin.mind", name: "zhuyin" },
