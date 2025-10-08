@@ -56,6 +56,7 @@ const loveStory = {
     { file: "loveStory/image/taskimg/task07.webp", name: "task07" },
     { file: "loveStory/image/taskimg/task08.webp", name: "task08" },
     { file: "loveStory/image/taskimg/task09.webp", name: "task09" },
+    { file: "loveStory/image/taskimg/task10.webp", name: "task10" },
 
     { file: "loveStory/image/taskimg/end01.webp", name: "end01" },
     { file: "loveStory/image/taskimg/end02.webp", name: "end02" },
