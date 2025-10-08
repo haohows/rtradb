@@ -38,6 +38,7 @@ const loveStory = {
     { file: "loveStory/image/evtbg/evtbg31.webp", name: "evtbg31" },
     { file: "loveStory/image/evtbg/evtbg32.webp", name: "evtbg32" },
     { file: "loveStory/image/evtbg/evtbg33.webp", name: "evtbg33" },
+    { file: "loveStory/image/evtbg/evtbg34.webp", name: "evtbg34" },
 
     { file: "loveStory/image/role/hero.webp", name: "hero" },
     { file: "loveStory/image/role/heroine.webp", name: "heroine" },
