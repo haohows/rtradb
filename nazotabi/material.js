@@ -31,6 +31,7 @@ const nazotabi = {
     { file: "nazotabi/image/role/bear14.webp", name: "bear14" },
     { file: "nazotabi/image/role/bear15.webp", name: "bear15" },
     { file: "nazotabi/image/role/bear16.webp", name: "bear16" },
+    { file: "nazotabi/image/role/bear17.webp", name: "bear17" },
 
     { file: "nazotabi/image/role/miko01.webp", name: "miko01" },
     { file: "nazotabi/image/role/miko02.webp", name: "miko02" },
