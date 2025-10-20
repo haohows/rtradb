@@ -53,6 +53,9 @@ const nazotabi = {
     { file: "nazotabi/image/role/amaterasu04.webp", name: "amaterasu04" },
     { file: "nazotabi/image/role/amaterasu05.webp", name: "amaterasu05" },
     { file: "nazotabi/image/role/amaterasu06.webp", name: "amaterasu06" },
+
+    { file: "nazotabi/image/role/beast01.webp", name: "beast01" },
+    { file: "nazotabi/image/role/beast02.webp", name: "beast02" },
   ],
   armark: [],
   armodel: [],
