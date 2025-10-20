@@ -42,6 +42,10 @@ const nazotabi = {
     { file: "nazotabi/image/role/miko07.webp", name: "miko07" },
     { file: "nazotabi/image/role/miko08.webp", name: "miko08" },
     { file: "nazotabi/image/role/miko09.webp", name: "miko09" },
+    { file: "nazotabi/image/role/miko10.webp", name: "miko10" },
+    { file: "nazotabi/image/role/miko11.webp", name: "miko11" },
+    { file: "nazotabi/image/role/miko12.webp", name: "miko12" },
+    { file: "nazotabi/image/role/miko13.webp", name: "miko13" },
 
     { file: "nazotabi/image/role/amaterasu01.webp", name: "amaterasu01" },
     { file: "nazotabi/image/role/amaterasu02.webp", name: "amaterasu02" },
