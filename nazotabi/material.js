@@ -59,6 +59,8 @@ const nazotabi = {
 
     { file: "nazotabi/image/role/event01.webp", name: "event01" },
     { file: "nazotabi/image/role/event02.webp", name: "event02" },
+
+    { file: "nazotabi/image/objimg/obj01.webp", name: "obj01" },
   ],
   armark: [],
   armodel: [],
