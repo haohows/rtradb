@@ -14,6 +14,7 @@ const nazotabi = {
     { file: "nazotabi/image/task/task12.webp", name: "task12" },
     { file: "nazotabi/image/task/task13.webp", name: "task13" },
     { file: "nazotabi/image/task/task14.webp", name: "task14" },
+    { file: "nazotabi/image/task/task15.webp", name: "task15" },
 
     { file: "nazotabi/image/role/bear01.webp", name: "bear01" },
     { file: "nazotabi/image/role/bear02.webp", name: "bear02" },
@@ -53,6 +54,8 @@ const nazotabi = {
     { file: "nazotabi/image/role/amaterasu04.webp", name: "amaterasu04" },
     { file: "nazotabi/image/role/amaterasu05.webp", name: "amaterasu05" },
     { file: "nazotabi/image/role/amaterasu06.webp", name: "amaterasu06" },
+
+    { file: "nazotabi/image/role/prince01.webp", name: "prince01" },
 
     { file: "nazotabi/image/role/beast01.webp", name: "beast01" },
     { file: "nazotabi/image/role/beast02.webp", name: "beast02" },
