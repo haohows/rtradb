@@ -57,6 +57,8 @@ const nazotabi = {
 
     { file: "nazotabi/image/role/prince01.webp", name: "prince01" },
 
+    { file: "nazotabi/image/role/sign01.webp", name: "sign01" },
+
     { file: "nazotabi/image/role/beast01.webp", name: "beast01" },
     { file: "nazotabi/image/role/beast02.webp", name: "beast02" },
 
@@ -64,6 +66,7 @@ const nazotabi = {
     { file: "nazotabi/image/role/event02.webp", name: "event02" },
 
     { file: "nazotabi/image/objimg/obj01.webp", name: "obj01" },
+    { file: "nazotabi/image/objimg/obj02.webp", name: "obj02" },
   ],
   armark: [],
   armodel: [],
