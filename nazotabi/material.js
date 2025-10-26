@@ -27,6 +27,7 @@ const nazotabi = {
     { file: "nazotabi/image/task/task26.webp", name: "task26" },
     { file: "nazotabi/image/task/task27.webp", name: "task27" },
     { file: "nazotabi/image/task/task28.webp", name: "task28" },
+    { file: "nazotabi/image/task/task29.webp", name: "task29" },
 
     { file: "nazotabi/image/role/bear01.webp", name: "bear01" },
     { file: "nazotabi/image/role/bear02.webp", name: "bear02" },
