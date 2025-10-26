@@ -15,7 +15,7 @@ const nazotabi = {
     { file: "nazotabi/image/task/task13.webp", name: "task13" },
     { file: "nazotabi/image/task/task14.webp", name: "task14" },
     { file: "nazotabi/image/task/task15.webp", name: "task15" },
-    { file: "nazotabi/image/task/task15.webp", name: "task15-j" },
+    { file: "nazotabi/image/task/task15-j.webp", name: "task15-j" },
     { file: "nazotabi/image/task/task16.webp", name: "task16" },
     { file: "nazotabi/image/task/task17.webp", name: "task17" },
     { file: "nazotabi/image/task/task18.webp", name: "task18" },
