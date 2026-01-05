@@ -7,6 +7,7 @@ const baseSet = {
     { file: "basesetting/image/sushi.webp", name: "sushi" },
     { file: "basesetting/image/bgShade.webp", name: "bgShade" },
     { file: "basesetting/image/taskBg.webp", name: "taskBg" },
+    { file: "basesetting/image/fateCoin.webp", name: "fateCoin" },
   ],
   armark: [
     { file: "basesetting/armark/aropt.mind", name: "aropt" },
