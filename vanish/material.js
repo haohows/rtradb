@@ -9,13 +9,14 @@ const vanish = {
     { file: "vanish/image/quest/quest03.webp", name: "quest03" },
     { file: "vanish/image/quest/quest04.webp", name: "quest04" },
     { file: "vanish/image/quest/quest05.webp", name: "quest05" },
+    { file: "vanish/image/quest/quest06.webp", name: "quest06" },
 
     { file: "vanish/image/dire/dire01.webp", name: "dire01" },
     { file: "vanish/image/dire/dire02.webp", name: "dire02" },
     { file: "vanish/image/dire/dire03.webp", name: "dire03" },
     { file: "vanish/image/dire/dire04.webp", name: "dire04" },
     { file: "vanish/image/dire/dire05.webp", name: "dire05" },
-    { file: "vanish/image/dire/dire06.webp", name: "dire06" },
+
 
     { file: "vanish/image/props/props01.webp", name: "props01" },
     { file: "vanish/image/props/props02.webp", name: "props02" },
