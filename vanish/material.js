@@ -1,6 +1,14 @@
 const vanish = {
   image: [
     { file: "vanish/image/task/task01.webp", name: "task01" },
+    { file: "vanish/image/task/task02.webp", name: "task02" },
+    { file: "vanish/image/task/task03.webp", name: "task03" },
+    { file: "vanish/image/task/task04.webp", name: "task04" },
+    { file: "vanish/image/task/task05.webp", name: "task05" },
+    { file: "vanish/image/task/task06.webp", name: "task06" },
+    { file: "vanish/image/task/task07.webp", name: "task07" },
+    { file: "vanish/image/task/task08.webp", name: "task08" },
+
     { file: "vanish/image/evtbg/evtbg01.webp", name: "evtbg01" },
 
     { file: "vanish/image/quest/quest01.webp", name: "quest01" },
