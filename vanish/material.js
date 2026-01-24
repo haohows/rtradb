@@ -8,6 +8,7 @@ const vanish = {
     { file: "vanish/image/task/task06.webp", name: "task06" },
     { file: "vanish/image/task/task07.webp", name: "task07" },
     { file: "vanish/image/task/task08.webp", name: "task08" },
+    { file: "vanish/image/task/task09.webp", name: "task09" },
 
     { file: "vanish/image/evtbg/evtbg01.webp", name: "evtbg01" },
 
